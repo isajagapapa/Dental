@@ -166,7 +166,7 @@ section .content .title {
 }
 
 section .content p {
-    text-align: justify;
+    text-align: left;
 }
 
 .body1{
