@@ -11733,3 +11733,20 @@ footer a:hover, footer a:active, footer a:focus {
   color: white;
 }
 
+::-webkit-scrollbar {
+  width: 17px;
+}
+
+::-webkit-scrollbar-track {
+  background: #009DAE;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #47D0DB;
+  border: 0.25em solid #009DAE;
+  border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3bbec8;
+}
