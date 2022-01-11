@@ -115,49 +115,56 @@
         </div>
     </div>
 
-    <div class="fade-in container wrapper-1 px-5 py-5">
-        <header class="mb-5 mt-5">
-            <h2 id="type1" class="type1 text-center h2-sec"></h2>
-        </header>
-        <input type="radio" name="slider" checked id="susu">
-        <input type="radio" name="slider" id="kacang">
-        <input type="radio" name="slider" id="sayur">
-        <input type="radio" name="slider" id="telur">
-        <nav class="text-center g-5">
-            <label for="susu" class="susu"><img src="img/Makanan/susu.png" style="width:7rem" alt=""></label>
-            <label for="kacang" class="kacang"><img src="img/Makanan/kacang.png" style="width:7rem" alt=""></label>
-            <label for="sayur" class="sayur"><img src="img/Makanan/sayur.png" style="width:7rem" alt=""></label>
-            <label for="telur" class="telur"><img src="img/Makanan/telur.png" style="width:7rem" alt=""></label>
-        </nav>
-        <section class="">
-            <div class="content content-1">
-                <div class="h3-sec title">Susu</div>
-                <p>Vitamin D3, mengandung kalsium dan fosfat untuk pembentukan dan Kesehatan tulang. Kalsium, mengandung
-                    kalsium untuk membantu pertumbuhan gigi anak-anak.</p>
-            </div>
-            <div class="content content-2">
-                <div class="h3-sec title">Kacang</div>
-                <p>Mengandung lemak alami yang dapat melapisi gigi dan memnbantu melindungi bakteri. Minyak biji
-                    membantu menguatkan enamel, mencegah gigi berlubang, dan kebanyakan biji juga mengandung kalsium.
-                </p>
-            </div>
-            <div class="content content-3">
-                <div class="h3-sec title">Buah dan Sayuran</div>
-                <p>Buah beri, mengandung antioksidan antosionin yang berguna untuk membantu menghilangkan masalah pla
-                    yang menempel di gigi serta bakteri.
-                    Jeruk, mengandung vitamin C dan serat yang dapat membantu Kesehatan gigi dan mulut anda.
-                    Seledri, membantu produksi air liur dalam mulut Ketika dikonsumsi sehingga membuat Kesehatan mulut
-                    terjaga.
-                    Apel, mengandung vitamin C dan memproduksi kolagen untuk membuat gusi lebih kuat.
-                    Wortel, mengandung vitamin A dan Cyang mengandung antioksidan untuk memperkuat dan menjaga Kesehatan
-                    gigi.</p>
-            </div>
-            <div class="content content-4">
-                <div class="h3-sec title">Telur dan Minyak Ikan</div>
-                <p>Kandungan vitamin D dalam telur dan minyak ikan sangat tinggi dan bermanfaat bagi kesehatan gigi dan
-                    tubuh secara keseluruhan. Vitamin D Berfungsi untuk meningkatkan penyerapan kalsium dan fosfat.</p>
-            </div>
-        </section>
+    <div class="container mt-6 px-5 mb-6">
+        <h2 id="type1" class="type1 text-center h2-sec"></h2>
+        <div class="fade-in wrapper-1 mt-5 m-auto">
+            <input type="radio" name="slider" checked id="susu">
+            <input type="radio" name="slider" id="kacang">
+            <input type="radio" name="slider" id="sayur">
+            <input type="radio" name="slider" id="telur">
+            <nav class="text-center g-5">
+                <label for="susu" class="susu"><img class="img-fluid" src="img/Makanan/susu.png" style="width:7rem" alt=""></label>
+                <label for="kacang" class="kacang"><img class="img-fluid" src="img/Makanan/kacang.png" style="width:7rem" alt=""></label>
+                <label for="sayur" class="sayur"><img class="img-fluid" src="img/Makanan/sayur.png" style="width:7rem" alt=""></label>
+                <label for="telur" class="telur"><img class="img-fluid" src="img/Makanan/telur.png" style="width:7rem" alt=""></label>
+            </nav>
+            <section class="">
+                <div class="content content-1">
+                    <div class="h3-sec title">Susu</div>
+                    <p>Vitamin D3, mengandung kalsium dan fosfat untuk pembentukan dan Kesehatan tulang. Kalsium,
+                        mengandung
+                        kalsium untuk membantu pertumbuhan gigi anak-anak.</p>
+                </div>
+                <div class="content content-2">
+                    <div class="h3-sec title">Kacang</div>
+                    <p>Mengandung lemak alami yang dapat melapisi gigi dan memnbantu melindungi bakteri. Minyak biji
+                        membantu menguatkan enamel, mencegah gigi berlubang, dan kebanyakan biji juga mengandung
+                        kalsium.
+                    </p>
+                </div>
+                <div class="content content-3">
+                    <div class="h3-sec title">Buah dan Sayuran</div>
+                    <p>Buah beri, mengandung antioksidan antosionin yang berguna untuk membantu menghilangkan masalah
+                        pla
+                        yang menempel di gigi serta bakteri.
+                        Jeruk, mengandung vitamin C dan serat yang dapat membantu Kesehatan gigi dan mulut anda.
+                        Seledri, membantu produksi air liur dalam mulut Ketika dikonsumsi sehingga membuat Kesehatan
+                        mulut
+                        terjaga.
+                        Apel, mengandung vitamin C dan memproduksi kolagen untuk membuat gusi lebih kuat.
+                        Wortel, mengandung vitamin A dan Cyang mengandung antioksidan untuk memperkuat dan menjaga
+                        Kesehatan
+                        gigi.</p>
+                </div>
+                <div class="content content-4">
+                    <div class="h3-sec title">Telur dan Minyak Ikan</div>
+                    <p>Kandungan vitamin D dalam telur dan minyak ikan sangat tinggi dan bermanfaat bagi kesehatan gigi
+                        dan
+                        tubuh secara keseluruhan. Vitamin D Berfungsi untuk meningkatkan penyerapan kalsium dan fosfat.
+                    </p>
+                </div>
+            </section>
+        </div>
     </div>
     <!-- Footer-->
     <footer class="bg-primary text-center py-4">
