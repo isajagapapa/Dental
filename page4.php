@@ -84,7 +84,7 @@
     </header>
     <div class="wrapper container px-5 justify-content-center align-items-center align-self-center mt-6">
         <div class="fade-in carousel owl-carousel text-start">
-            <div class="card px-5 py-5">
+            <div class="card px-3 py-5">
                 <h3 class="card-title text-center mt-45">Secara Umum</h3>
                 <p class="mt-2 mb-5">
                     <span class="mx-2 text-black-100">&#8227; </span>Menyikat gigi 2x sehari <br>
@@ -93,7 +93,7 @@
                     bulan sekali ke pelayanan Kesehatan gigi
                 </p>
             </div>
-            <div class="card px-5">
+            <div class="card px-3 py-1">
                 <h3 class="card-title text-center mt-45">Untuk Bayi</h3>
                 <p class="mt-2 mb-5">
                     <span class="mx-2 text-black-100">&#8227; </span> Hindari botol susu saat tidur <br>
@@ -103,7 +103,7 @@
                     <span class="mx-2 text-black-100">&#8227; </span> Rutin periksa gigi mandiri <br>
                 </p>
             </div>
-            <div class="card px-5 py-5">
+            <div class="card px-3 py-5">
                 <h3 class="card-title text-center mt-45">Untuk Anak-Anak</h3>
                 <p class="mt-2 mb-5">
                     <span class="mx-2 text-black-100">&#8227; </span> Menyikat gigi 2x sehari <br>
