@@ -90,7 +90,7 @@
             <div class="fade-in col text-center justify-content-center">
                 <div class="card h-100 w-auto shadow-lg border-0 px-3">
                     <video class="mt-2 vid-fluid" width="320" height="240" controls>
-                        <source src="ROAR-Rio Anggara Alfat Nur-20190140024-Video1.mov" type="video/mov">
+                        <source src="ROAR-Rio Anggara Alfat Nur-20190140024-Video1.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <hr class="mt-4 mb-3" size="7px" width="50%">
