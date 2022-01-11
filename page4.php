@@ -20,6 +20,7 @@
 
     <link href="/styles.css" rel="stylesheet">
     <link rel="stylesheet" href="style1.css">
+    <link href="/backtotop.css" rel="stylesheet">
 
     <link href="/bounce.css" rel="stylesheet">
 

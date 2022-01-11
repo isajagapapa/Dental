@@ -16,6 +16,7 @@
     <link href="/style2.css" rel="stylesheet">
     <!-- <link href="bootstrap.min.css" rel="stylesheet"> -->
     <link href="/bounce.css" rel="stylesheet">
+    <link href="/backtotop.css" rel="stylesheet">
 
     <link href="/fade.css" rel="stylesheet">
 

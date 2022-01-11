@@ -14,6 +14,7 @@
     </script> -->
     <link href="/styles.css" rel="stylesheet">
     <link href="/fade.css" rel="stylesheet">
+    <link href="/backtotop.css" rel="stylesheet">
     <!-- <link href="bootstrap.min.css" rel="stylesheet"> -->
 
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>

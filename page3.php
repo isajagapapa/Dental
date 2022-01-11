@@ -13,6 +13,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     </script> -->
     <link href="/styles.css" rel="stylesheet">
+    <link href="/backtotop.css" rel="stylesheet">
     <!-- <link href="bootstrap.min.css" rel="stylesheet"> -->
     <link href="/bounce.css" rel="stylesheet">
 
