@@ -29,7 +29,7 @@
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
 </head>
 
-<body class="body1">
+<body class="body2">
     <!-- Topbar -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
         <div class="container px-5">
