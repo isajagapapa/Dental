@@ -170,6 +170,6 @@ section .content p {
 }
 
 .body2{
-    background: url(img/bg.png);
+    background: url(img/bg-min.png);
     background-size: 100%;
 }
