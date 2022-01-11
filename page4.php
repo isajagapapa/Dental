@@ -169,8 +169,9 @@
         </div>
     </footer>
 
+    <a id="myBtn" onclick="topFunction()" href="#" class="back-to-top"><i class="fas fa-arrow-alt-circle-up"></i></a>
 
-
+    <script src="backtotop.js"></script>
     <script>
         $(".carousel").owlCarousel({
             loop: true,

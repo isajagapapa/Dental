@@ -170,6 +170,9 @@
     </footer>
     <!-- End of Topbar -->
 
+    <a id="myBtn" onclick="topFunction()" href="#" class="back-to-top"><i class="fas fa-arrow-alt-circle-up"></i></a>
+
+    <script src="backtotop.js"></script>
     <script>
         var x = new Typed('#type', {
             strings: [
