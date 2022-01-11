@@ -83,7 +83,7 @@
                     </video>
                     <hr class="mt-4 mb-3" size="7px" width="50%">
                     <div class="card-body mb-3">
-                        <h3 class="card-title">Cara Membersihkan Gigi Bayi Yang Baru Tumbuh</h3>
+                        <h4 class="card-title">Cara Membersihkan Gigi Bayi Yang Baru Tumbuh</h4>
                     </div>
                 </div>
             </div>
@@ -95,7 +95,7 @@
                     </video>
                     <hr class="mt-4 mb-3" size="7px" width="50%">
                     <div class="card-body mb-3">
-                        <h3 class="card-title">Cara Menggosok Gigi Anak Umur 1 Tahun</h3>
+                        <h4 class="card-title">Cara Menggosok Gigi Anak Umur 1 Tahun</h4>
                     </div>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                     </video>
                     <hr class="mt-4 mb-3" size="7px" width="50%">
                     <div class="card-body mb-3">
-                        <h3 class="card-title">Video Enak</h3>
+                        <h4 class="card-title">Video Enak</h4>
                     </div>
                 </div>
             </div>
